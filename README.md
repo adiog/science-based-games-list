@@ -115,7 +115,8 @@ A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Scie
 
 #### Colobot
 
-* [www.ceebot.com/colobot/index-e.php](http://www.ceebot.com/colobot/index-e.php)
+* [official webpage](http://www.ceebot.com/colobot/index-e.php)
+* [github repository](https://github.com/colobothttps://github.com/colobot)
 * programming multiple, possibly interacting, robots
 
 #### TIS-100
